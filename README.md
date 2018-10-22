@@ -1,2 +1,2 @@
 # emailauth
-E-Mail Authentication Tryout
+email Authentication Tryout
